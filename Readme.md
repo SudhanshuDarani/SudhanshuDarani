@@ -2,7 +2,7 @@
 
 - 🔭  I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc
 
-- 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/Deepeshgodhwani">Github </a>.
+- 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/SudhanshuDarani">Github </a>.
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **daranisudhanshu@gmail.com**
